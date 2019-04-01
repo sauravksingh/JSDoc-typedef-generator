@@ -6,7 +6,9 @@
 > A utility to generate javascript document typedef from a JSON object.
 
 ## Author
+
 sauravksingh
+
 ----
 ## Usage
 1. Download/fork the project on your device

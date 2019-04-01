@@ -5,9 +5,8 @@
 
 > A utility to generate javascript document typedef from a JSON object.
 
-## Owners
-[D'Ninjas Squad](https://cimpress-support.atlassian.net/wiki/spaces/DNIN/overview) is the owner of the utility and reachable at DNinjasSquad@cimpress.com
-
+## Author
+sauravksingh
 ----
 ## Usage
 1. Download/fork the project on your device
